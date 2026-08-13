@@ -36,9 +36,9 @@ Step 5: Create your first C# project
 
 Open Command Prompt and run:
 
-mkdir HelloCSharp
-cd HelloCSharp
-dotnet new console
+1.  mkdir HelloCSharp
+2.  cd HelloCSharp
+3.  dotnet new console
 
 This creates a new console application.
 
