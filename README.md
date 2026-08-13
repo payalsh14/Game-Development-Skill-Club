@@ -42,11 +42,11 @@ Open Command Prompt and run:
 
 This creates a new console application.
 
-Step 6: Open the project in VS Code
+Step 6: To Open the project in VS Code
 
-In the same folder, run:
+In the same folder (inside cmd), run:
 
-code .
+code . (give space after code)
 
 VS Code will open your project.
 
