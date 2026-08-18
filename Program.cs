@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.Serialization.Formatters;
 
 class Program
 {
@@ -39,6 +40,11 @@ class Program
         int b = int.Parse(Console.ReadLine()!);
         int c = a+b;
         Console.WriteLine("the sum is "+c);
+
+        for(int i = 0; i < 5; i++)
+        {
+            Console.WriteLine("hello");
+        }
 
 
 
