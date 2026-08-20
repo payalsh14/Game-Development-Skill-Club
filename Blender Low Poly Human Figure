@@ -199,3 +199,41 @@ Right foot
 Duplicate:
 
 Shift + D → X → 1 → Enter
+
+9. Add a ground
+
+Shift + A → Mesh → Plane
+
+Set:
+
+Location
+
+X: 0
+Y: 0
+Z: -1.35
+
+Scale
+
+X: 4
+Y: 4
+Z: 4
+
+Now the character stands on a floor.
+
+10. Give it a simple material
+
+Select the body.
+
+Go to Material Properties → New.
+
+Choose a simple color.
+
+You can give:
+
+Body → one color
+Head → same color
+Arms → same color
+Legs → same color
+Shoes → darker color
+
+Then use Material Preview (Z → M) to see the colors.
