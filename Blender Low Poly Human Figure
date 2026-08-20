@@ -1,0 +1,201 @@
+Low-poly human — complete step-by-step
+
+We'll use:
+
+Cubes for torso, arms, and legs
+UV Sphere for the head
+Cylinders for simple hands/feet if needed
+No complicated sculpting
+0. Start
+
+Open Blender → select the default cube.
+
+Press A → X → Enter to delete everything.
+
+1. Torso
+
+Shift + A → Mesh → Cube
+
+Press N → Item → Transform.
+
+Set:
+
+Location
+
+X: 0
+Y: 0
+Z: 2.8
+
+Rotation
+
+X: 0°
+Y: 0°
+Z: 0°
+
+Scale
+
+X: 1.0
+Y: 0.55
+Z: 1.4
+
+This is the main body.
+
+2. Head
+
+Shift + A → Mesh → UV Sphere
+
+Set:
+
+Location
+
+X: 0
+Y: 0
+Z: 4.8
+
+Rotation
+
+X: 0°
+Y: 0°
+Z: 0°
+
+Scale
+
+X: 0.75
+Y: 0.75
+Z: 0.75
+
+For a more low-poly appearance:
+
+Object → Shade Auto Smooth
+or right-click → Shade Smooth.
+
+3. Left arm
+
+Shift + A → Mesh → Cube
+
+Set:
+
+Location
+
+X: -1.25
+Y: 0
+Z: 2.8
+
+Rotation
+
+X: 0°
+Y: 0°
+Z: 0°
+
+Scale
+
+X: 0.35
+Y: 0.35
+Z: 1.2
+
+This gives you a simple straight arm.
+
+4. Right arm
+
+Select the left arm.
+
+Press:
+
+Shift + D → X → 2.5 → Enter
+
+Now you have the second arm.
+
+Its location becomes:
+
+X: 1.25
+Y: 0
+Z: 2.8
+
+Everything else stays the same.
+
+5. Left leg
+
+Shift + A → Mesh → Cube
+
+Set:
+
+Location
+
+X: -0.5
+Y: 0
+Z: 0.3
+
+Rotation
+
+X: 0°
+Y: 0°
+Z: 0°
+
+Scale
+
+X: 0.45
+Y: 0.45
+Z: 1.3
+6. Right leg
+
+Select the left leg.
+
+Shift + D → X → 1 → Enter
+
+Right leg:
+
+X: 0.5
+Y: 0
+Z: 0.3
+
+Scale remains:
+
+X: 0.45
+Y: 0.45
+Z: 1.3
+7. Hands
+
+For a very simple figure, you can use small spheres.
+
+Left hand
+
+Shift + A → Mesh → UV Sphere
+
+Set:
+
+Location X: -1.25
+Y: 0
+Z: 1.35
+Scale: 0.4, 0.4, 0.4
+Right hand
+
+Duplicate:
+
+Shift + D → X → 2.5 → Enter
+
+8. Feet
+
+Use cubes.
+
+Left foot
+
+Shift + A → Mesh → Cube
+
+Set:
+
+Location
+
+X: -0.5
+Y: -0.25
+Z: -1.05
+
+Scale
+
+X: 0.5
+Y: 0.8
+Z: 0.3
+Right foot
+
+Duplicate:
+
+Shift + D → X → 1 → Enter
