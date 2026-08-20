@@ -237,3 +237,28 @@ Legs → same color
 Shoes → darker color
 
 Then use Material Preview (Z → M) to see the colors.
+
+
+11. now export from blender
+click on file --> click on export --> select .fbx --> give your file a name.
+
+12. Open Unity 
+go to the asset window --> right click -->import new asset --> select your blender .fbx file
+drag it to the scene and drop in scene view.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
