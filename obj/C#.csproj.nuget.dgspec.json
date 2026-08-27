@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\EURO\\C#\\C#.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\EuroSchool\\EURO\\C#\\C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\EURO\\C#\\C#.csproj": {
+    "C:\\Users\\Asus\\Desktop\\EuroSchool\\EURO\\C#\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\EURO\\C#\\C#.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\EuroSchool\\EURO\\C#\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\EURO\\C#\\C#.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\EuroSchool\\EURO\\C#\\C#.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\EURO\\C#\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\EuroSchool\\EURO\\C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
